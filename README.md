@@ -9,7 +9,11 @@ npm create vite
 ```
 
 ```bash
-npm i react-bootstrap bootstrap react-router-dom
+npm i react-router-dom
 ```
 
-& import "bootstrap/dist/css/bootstrap.min.css"
+### React for bootstrap :
+
+- npm i react-bootstrap bootstrap
+- import "bootstrap/dist/css/bootstrap.min.css"
+- https://react-bootstrap.github.io/getting-started/introduction
