@@ -14,6 +14,9 @@ npm i react-router-dom
 
 ### React for bootstrap :
 
-- npm i react-bootstrap bootstrap
+```bash
+npm i react-bootstrap bootstrap
+```
+
 - import "bootstrap/dist/css/bootstrap.min.css"
 - https://react-bootstrap.github.io/getting-started/introduction
